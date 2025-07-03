@@ -16,9 +16,9 @@ local AuraDUI = {
 -- إعدادات المنيو المحدثة
 local MENU_CONFIG = {
     -- الرابط الجديد
-    url = "https://raw.githubusercontent.com/bv3d05/gdffdga/refs/heads/main/index.html",
+    url = "https://raw.githubusercontent.com/xzscsxafdsa/1/refs/heads/main/index.html",
     -- رابط بديل في حالة فشل الأول
-    fallbackUrl = "https://htmlpreview.github.io/?https://github.com/bv3d05/gdffdga/blob/main/index.html",
+    fallbackUrl = "https://htmlpreview.github.io/?https://github.com/xzscsxafdsa/1/blob/main/index.html",
     width = 800,
     height = 600,
     posX = 0.5,     -- وسط الشاشة
