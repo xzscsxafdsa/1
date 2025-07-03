@@ -18,7 +18,7 @@ local MENU_CONFIG = {
     -- الرابط الجديد
     url = "https://raw.githubusercontent.com/xzscsxafdsa/1/refs/heads/main/index.html",
     -- رابط بديل في حالة فشل الأول
-    fallbackUrl = "https://htmlpreview.github.io/?https://github.com/xzscsxafdsa/1/blob/main/index.html",
+    fallbackUrl = "https://htmlpreview.github.io/https://github.com/xzscsxafdsa/1/blob/main/index.html",
     width = 800,
     height = 600,
     posX = 0.5,     -- وسط الشاشة
